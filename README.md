@@ -17,7 +17,7 @@ The information was obtained from <a href="https://beta.companieshouse.gov.uk/co
 
 The list of the subsidiaries and joint ventures was converted into excel. 
 
-XLSX: ![Carillion-linked companies](https://github.com/Birmingham-Eastside/Carillion-Wolverhampton/blob/master/carillion-linked%20companies.xlsx)
+XLSX: <a href="https://github.com/Birmingham-Eastside/Carillion-Wolverhampton/blob/master/carillion-linked%20companies.xlsx">Carillion-linked companies</a>
 
 # Visualisation
 
